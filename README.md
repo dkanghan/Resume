@@ -1,4 +1,4 @@
-# Hosting a Resume file on Static Site Generator
+# Hosting a Resume file on Static Site Generator and Github Pages
 
 ## Purpose
 This document is going to help in how to write, format and host a resume on static website with the use of different softwares. The resume file will be written 
