@@ -19,8 +19,10 @@ Requirements to work on this project are:
 
 3. **Repository** :- 
    * After creating the account in GitHub, You will create a new repository by clicking on the new near the repositories.
+    ![new repo](https://github.com/dkanghan/Resume/blob/gh-pages/media/Github.png)
    * Give your repository a name
-   ![new repo](https://github.com/dkanghan/Resume/blob/gh-pages/media/Github.png)
+    ![repo name](https://github.com/dkanghan/Resume/blob/gh-pages/media/Create%20Repo%20GIF.gif)
+  
 
 4. **Hosting Resume on Jekyll** :- To host your resume, we will require a static site generator such as jekyll and Github Pages to host the resume there.
    
