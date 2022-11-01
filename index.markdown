@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-
-# **Dharmit Kishorbhai Anghan**
 Winnipeg, Manitoba
     
 ### **Contact**
