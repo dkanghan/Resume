@@ -22,7 +22,7 @@ title: Dharmit K Anghan
 email: dharmitanghan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Here's a resume file written in markdown language.
-  
+domain: dkanghan.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dkanghan.github.io/Resume/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: dkanghan
