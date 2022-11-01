@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Readme"
+date:   2022-10-02 
+categories: jekyll update
+---
+
+readme
