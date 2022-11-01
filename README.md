@@ -56,10 +56,10 @@ Requirements to work on this project are:
 ### Author
 - Dharmit Anghan
 ### Acknowledgements
-- Kim, Gyuri 
-- Anghan, Dharmit Kishorbhai 
-- Ahir, Md Ahiduzzaman 
-- How, Yun Ji 
+- **Kim, Gyuri** :- Peer Reviewed README file  
+- **Ahir, Md Ahiduzzaman** :- Peer Reviewed README file
+- **How, Yun Ji** :- Peer Reviewed README file
+- **Billie Thompson** :- *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
 ### FAQs
 1. Why is Markdown document better than a word document?  
 
