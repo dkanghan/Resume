@@ -42,6 +42,7 @@ Requirements to work on this project are:
   >> * content of the folder must include the font markers.
    
    ![jekyll folder](https://github.com/dkanghan/Resume/blob/gh-pages/media/_post.png)
+   ![Folder Name](https://github.com/dkanghan/Resume/blob/gh-pages/media/resume%20file%20gif.gif)
 
 5.  **Hosting Resume to Remote Server** :- Andrew Etter mentioned in his book, "You should build and host a website, not distribute PDFs, but it bears repeating. Even the best documentation, like software, eventually goes out of date."As a result, we can create a static website and host it on Github Pages. Static websites, according to Etter, are simple, portable, safe, and lack database or server-side requirements. Github Pages is a great static site generator that also includes various Jekyll themes. If you wish to utilise your own custom theme, see the **More Resources** section. 
 
