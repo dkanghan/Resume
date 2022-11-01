@@ -59,7 +59,7 @@ Requirements to work on this project are:
 - **Kim, Gyuri** :- Peer Reviewed README file  
 - **Ahir, Md Ahiduzzaman** :- Peer Reviewed README file
 - **How, Yun Ji** :- Peer Reviewed README file
-- **Billie Thompson** :- Provided README Template - [PurpleBooth](https://github.com/PurpleBooth)
+- **Billie Thompson** :- Provided README Template - [PurpleBooth](https://github.com/PurpleBooth/a-good-readme-template)
 ### FAQs
 1. Why is Markdown document better than a word document?  
 
