@@ -56,7 +56,19 @@ Requirements to work on this project are:
 ### Author
 - Dharmit Anghan
 ### Acknowledgements
-
+- Kim, Gyuri 
+- Anghan, Dharmit Kishorbhai 
+- Ahir, Md Ahiduzzaman 
+- How, Yun Ji 
 ### FAQs
+1. Why is Markdown document better than a word document?  
 
+	 *According to Andrew Etter, "Documentation with any sort of lifespan needs to be kept in version control, which Word's DOCX file format (a compressed collection of XML files) actively opposes." Using Markdown helps two principles mentioned by etter in use*
+	    
+      * *To Store the document under version control.*
+	   
+      *  *To Deploy the documentation using a static site generator*
+2. Why should we use Distributed Version Control System?
+   
+   *According to Etter, "DVCS have better performance, allow for offline work, and are superior for concurrent work on the same file. For technical writers, the most importanct reason to use DVCS is that developer prefer them." Hence, the usability of DVCS can be proved in a long run where multiple users commit and update a project. DVCSC can handle that kind of structure and keep the documentation secure.*
     
