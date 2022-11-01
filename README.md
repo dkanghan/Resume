@@ -21,7 +21,7 @@ Requirements to work on this project are:
  * After creating the account in GitHub, You will create a new repository by clicking on the new near the repositories.
  * Give your repository a name
 
-4. **Hosting Resume** :- To host your resume, we will require a static site generator such as jekyll and Github Pages to host the resume there.
+4. **Hosting Resume on Jekyll** :- To host your resume, we will require a static site generator such as jekyll and Github Pages to host the resume there.
    
    * You would require to create a new jekyll server for your static website by using 
 **jekyll new < name of server >**
