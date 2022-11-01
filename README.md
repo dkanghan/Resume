@@ -14,6 +14,7 @@ Requirements to work on this project are:
 
 ### Instructions
 1. **Making a Resume** :- You would want to make a resume in a lightweight markup languages. Markdown language being one of the most used lightweight markup language, We will also use this in our project to carry out the desired goal. Hence, We will use this resume to host in our static website.
+ ![Markdown](https://github.com/dkanghan/Resume/blob/gh-pages/media/Md.gif)
 
 2. **GitHub Account** :- You will require a Github Account as Github is one of the most extensively used Distributed Version Control system on the market. In his book, Etter says, "DVCS (Distributed Version Control) provides higher performance, supports offline work, and is preferable for simultaneous work on the same file. The most essential reason for technical writers to utilise DVCS is that developers prefer them." DVC's help keeping updated documents and their previous version accessible for users to go back and correct the errors or make the changes in the new version.
 
@@ -28,12 +29,15 @@ Requirements to work on this project are:
    
    * You would require to create a new jekyll server for your static website by using 
 **jekyll new < name of server >**
+   ![jekyll](https://github.com/dkanghan/Resume/blob/gh-pages/media/Jekyll%20new%20Gif.gif)
    * Once, you create a server. You should go to the _post folder and create a new folder for your resume.
   >  Note :- The new folder that you create must follow the requirement of the folder name and content according to how jekyll works. 
   >>  * i.e,name of the folder :-  yyyy-mm-dd-name
   >> * content of the folder must include the font markers.
+   ![jekyll folder](https://github.com/dkanghan/Resume/blob/gh-pages/media/_post.png)
 
 5.  **Hosting Resume to Remote Server** :- Andrew Etter mentioned in his book, "You should build and host a website, not distribute PDFs, but it bears repeating. Even the best documentation, like software, eventually goes out of date."As a result, we can create a static website and host it on Github Pages. Static websites, according to Etter, are simple, portable, safe, and lack database or server-side requirements. Github Pages is a great static site generator that also includes various Jekyll themes. If you wish to utilise your own custom theme, see the **More Resources** section. 
+ [Hosting Resume](https://github.com/dkanghan/Resume/blob/gh-pages/media/Hosted%20resume.gif)
 
 ### More Resources
 1. **Markdown Tutorials** :- [Markdown Tutorial](https://www.markdowntutorial.com/) is easy to go through tutorial which helps you learn markdown language from the very basic.
