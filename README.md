@@ -1,4 +1,4 @@
-# Hosting a Resume file on Static Site Generator and Github Pages
+# Hosting a Resume file on Static Site Generator
 
 ## Purpose
 This document is going to help in how to write, format and host a resume on static website with the use of different softwares. The resume file will be written 
@@ -9,7 +9,7 @@ concepts and ideas given in Andrew Etter’s book Modern Technical Writing and w
 
 Requirements to work on this project are:
 * **Markdown Editor** :- You would require a basic markdown editor which can be used to write the README file in markdown format.
-> Some of the good Markdown Editors are [Markdown Pad](http://www.markdownpad.com/)(as suggested by Andrew Etter) or [stackio](https://stackedit.io/)(an online collaborative markdown editor)
+> Some of the good Markdown Editors are [Markdown Pad](http://www.markdownpad.com/)(as suggested by Andrew Etter) or [stackio](https://stackedit.io/)(an online collaborative markdown editor), If you're looking to use Markdown in one of the softwares you can also use [Visual Studio Code](https://code.visualstudio.com/).
 * **Resume formatted in Markdown** :- We would want a resume in markdown format, and a tutorial on how to use markdown is given in **More Resources** section.
 
 ### Instructions
