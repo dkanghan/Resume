@@ -1,5 +1,8 @@
 ---
 layout: home
+title:  "Resume"
+date:   2022-11-01 10:27:02 -0500
+categories: jekyll update
 ---
 
 # **Dharmit Anghan**
