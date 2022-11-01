@@ -18,8 +18,8 @@ Requirements to work on this project are:
 2. **GitHub Account** :- You will require a Github Account as Github is one of the most extensively used Distributed Version Control system on the market. In his book, Etter says, "DVCS (Distributed Version Control) provides higher performance, supports offline work, and is preferable for simultaneous work on the same file. The most essential reason for technical writers to utilise DVCS is that developers prefer them." DVC's help keeping updated documents and their previous version accessible for users to go back and correct the errors or make the changes in the new version.
 
 3. **Repository** :- 
- * After creating the account in GitHub, You will create a new repository by clicking on the new near the repositories.
- * Give your repository a name
+   * After creating the account in GitHub, You will create a new repository by clicking on the new near the repositories.
+   * Give your repository a name
 
 4. **Hosting Resume on Jekyll** :- To host your resume, we will require a static site generator such as jekyll and Github Pages to host the resume there.
    
